@@ -1,0 +1,12 @@
+/Users/macbookpro/projects/assignment-ss/quadratic-equation-solver/QuadraticEquationSolver.Core/bin/Debug/net7.0/QuadraticEquationSolver.Core.deps.json
+/Users/macbookpro/projects/assignment-ss/quadratic-equation-solver/QuadraticEquationSolver.Core/bin/Debug/net7.0/QuadraticEquationSolver.Core.dll
+/Users/macbookpro/projects/assignment-ss/quadratic-equation-solver/QuadraticEquationSolver.Core/bin/Debug/net7.0/QuadraticEquationSolver.Core.pdb
+/Users/macbookpro/projects/assignment-ss/quadratic-equation-solver/QuadraticEquationSolver.Core/obj/Debug/net7.0/QuadraticEquationSolver.Core.csproj.AssemblyReference.cache
+/Users/macbookpro/projects/assignment-ss/quadratic-equation-solver/QuadraticEquationSolver.Core/obj/Debug/net7.0/QuadraticEquationSolver.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/projects/assignment-ss/quadratic-equation-solver/QuadraticEquationSolver.Core/obj/Debug/net7.0/QuadraticEquationSolver.Core.AssemblyInfoInputs.cache
+/Users/macbookpro/projects/assignment-ss/quadratic-equation-solver/QuadraticEquationSolver.Core/obj/Debug/net7.0/QuadraticEquationSolver.Core.AssemblyInfo.cs
+/Users/macbookpro/projects/assignment-ss/quadratic-equation-solver/QuadraticEquationSolver.Core/obj/Debug/net7.0/QuadraticEquationSolver.Core.csproj.CoreCompileInputs.cache
+/Users/macbookpro/projects/assignment-ss/quadratic-equation-solver/QuadraticEquationSolver.Core/obj/Debug/net7.0/QuadraticEquationSolver.Core.dll
+/Users/macbookpro/projects/assignment-ss/quadratic-equation-solver/QuadraticEquationSolver.Core/obj/Debug/net7.0/refint/QuadraticEquationSolver.Core.dll
+/Users/macbookpro/projects/assignment-ss/quadratic-equation-solver/QuadraticEquationSolver.Core/obj/Debug/net7.0/QuadraticEquationSolver.Core.pdb
+/Users/macbookpro/projects/assignment-ss/quadratic-equation-solver/QuadraticEquationSolver.Core/obj/Debug/net7.0/ref/QuadraticEquationSolver.Core.dll
