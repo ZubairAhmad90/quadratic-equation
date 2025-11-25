@@ -77,7 +77,8 @@ dotnet test --filter "FullyQualifiedName~Solve_NoRealRoots_NegativeDiscriminant"
 - Extend solver to return complex roots when discriminant < 0 (if required).
 - Attach LearnGitBranching screenshots and any Git remote push evidence to the final submission package.
 
-<img width="1948" height="1512" alt="image (54)" src="https://github.com/user-attachments/assets/5f1eb18e-00bd-40f9-a819-11b05772de28" />
+<img width="1<img width="1656" height="1606" alt="image (58)" src="https://github.com/user-attachments/assets/183f8793-d92b-4873-b9cb-a4dcfbcadcb4" />
+948" height="1512" alt="image (54)" src="https://github.com/user-attachments/assets/5f1eb18e-00bd-40f9-a819-11b05772de28" />
 
 <img width="2314" height="1208" alt="image (55)" src="https://github.com/user-attachments/assets/e1482bcd-3482-41cf-a136-7061bff84a7d" />
 <img width="1978" height="984" alt="image (56)" src="https://github.com/user-attachments/assets/d5876d36-ef76-4726-ba1f-aa65273fd934" />
